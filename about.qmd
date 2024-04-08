@@ -1,0 +1,11 @@
+---
+title: "About"
+about:
+  template: trestles
+---
+
+About this site
+
+```{r}
+1 + 1
+```

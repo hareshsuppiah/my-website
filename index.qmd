@@ -1,0 +1,42 @@
+---
+title: "Haresh Suppiah"
+image: images/photo.jpeg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/hareshtsuppiah/?originalSubdomain=au
+    - icon: twitter
+      href: https://twitter.com/hareshsuppiah
+    - icon: github
+      href: https://github.com/hareshsuppiah
+    - text: "{{< ai researchgate >}}"
+      href: https://www.researchgate.net/profile/Haresh-Suppiah
+    - text: "{{< iconify humbleicons mail >}}"
+      href: mailto:h.suppiah@latrobe.edu.au
+---
+
+## Hi there!
+
+| 
+
+Thanks for stopping by. I'm Haresh Suppiah, a lecturer in sport and exercise science at La Trobe University
+
+## Education
+
+| 
+
+-   **PhD, Sport Physiology,** (2017) \| Nanyang Technological University
+
+-   **Master of Science - Analytics,** (2024) \| Georgia Institute of Technology
+
+## Experience
+
+| 
+
+-   **Lecturer**, 2022-present \| La Trobe University
+
+-   **Research Fellow**, 2020-2023 \| La Trobe University
